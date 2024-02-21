@@ -1,1 +1,1 @@
-# Flutter vs readct naitive
+# Flutter vs react naitive
